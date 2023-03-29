@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Acme313
 - 👀 I’m interested in Swift programming. 
-- 🌱 I’m currently learning JS, C# and Swift.
+- 🌱 I’m currently learning HTML, CSS, JS, C# and Swift.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
